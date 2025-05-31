@@ -6,15 +6,6 @@ This project is a complete end-to-end data analytics case study on LinkedIn data
 
 The goal of this project is to derive meaningful insights from LinkedIn-related data, simulate real-world analytical tasks, and present the results in a clear, structured manner suitable for decision-making or reporting.
 
-## 📂 Project Structure
-
-Linkedin-Data-Analytics-Project/
-├── data/ # Raw and cleaned datasets
-├── notebooks/ # Jupyter notebooks and Python scripts
-├── Images/ # Charts, graphs, and summary reports
-├── README.md # Project documentation (this file)
-└──dashboards # visualisation using Power BI
-
 
 ## 🔧 Technologies Used
 
