@@ -1,0 +1,502 @@
+,title,company,location,posted_date,experience_level,skills,salary_lpa_min,salary_lpa_max,job_link
+0,analytics intern,"lloyd, hoffman and hill",bangalore,2025-05-12,Internship,"Excel, Machine Learning, Python",1,2,https://www.martin.com/
+1,analytics intern,"randolph, rivers and richardson",mumbai,2025-05-21,Internship,"SQL, Communication, Statistics",1,2,http://www.garner.net/
+2,data engineer,liu llc,bangalore,2025-04-26,Mid Level,"Communication, Tableau, Excel",11,12,http://www.hudson.biz/
+3,data analyst,murphy group,delhi,2025-05-22,Mid Level,"Power BI, Statistics, Excel",8,11,https://barton-martinez.com/
+4,data analyst,taylor llc,gurgaon,2025-05-01,Entry Level,"Communication, Tableau, Python",4,6,http://www.jenkins.net/
+5,bi analyst,"black, murray and sullivan",chennai,2025-05-11,Senior Level,"Power BI, Machine Learning, Python, Statistics, SQL",21,24,https://www.martin.com/
+6,ml engineer,"black, murray and sullivan",hyderabad,2025-05-08,Senior Level,"Machine Learning, SQL, Excel, Communication",18,21,https://murphy-may.com/
+7,data scientist,greene plc,chennai,2025-04-28,Mid Level,"Excel, Tableau, Machine Learning, SQL, Statistics",11,12,http://www.morris.info/
+8,bi analyst,miller-williams,chennai,2025-05-20,Senior Level,"Power BI, Machine Learning, Excel, Python, SQL",22,25,https://ellis.biz/
+9,data analyst,adkins-moyer,gurgaon,2025-05-20,Entry Level,"Machine Learning, SQL, Communication, Power BI, Tableau",3,6,https://taylor.com/
+10,analytics intern,green ltd,delhi,2025-05-13,Internship,"Tableau, Machine Learning, Communication",1,2,http://mendoza-pham.info/
+11,bi analyst,nelson-juarez,gurgaon,2025-04-27,Entry Level,"SQL, Statistics, Python, Machine Learning",3,6,https://nelson-nichols.com/
+12,data scientist,smith inc,delhi,2025-04-28,Mid Level,"Statistics, Power BI, Tableau",9,12,https://www.chan-anderson.com/
+13,bi analyst,"whitehead, williams and johnson",chennai,2025-05-22,Senior Level,"SQL, Machine Learning, Tableau, Excel, Statistics",12,23,https://lynch.biz/
+14,data analyst,smith-foster,gurgaon,2025-04-23,Entry Level,"Tableau, Communication, SQL, Statistics, Python",3,6,https://www.becker-velazquez.info/
+15,analytics intern,lara-conner,hyderabad,2025-04-28,Internship,"Python, Tableau, Excel",1,2,https://www.carr-faulkner.com/
+16,bi analyst,reed-lane,mumbai,2025-04-24,Senior Level,"Python, SQL, Tableau",24,25,https://kelly.com/
+17,data analyst,"black, murray and sullivan",remote,2025-05-09,Senior Level,"Communication, Tableau, SQL",24,25,https://www.alexander.com/
+18,ml engineer,"whitehead, williams and johnson",gurgaon,2025-05-05,Senior Level,"Tableau, Power BI, Machine Learning, Excel, Statistics",20,22,http://www.rangel-hamilton.com/
+19,data engineer,graves-cole,mumbai,2025-05-22,Entry Level,"Power BI, Tableau, SQL",3,5,http://www.morris.com/
+20,data analyst,jones inc,bangalore,2025-04-24,Entry Level,"Power BI, Excel, Machine Learning",3,5,https://www.williamson-beasley.com/
+21,bi analyst,ford llc,delhi,2025-04-24,Mid Level,"Communication, Statistics, Power BI",10,12,http://www.pierce.com/
+22,data scientist,mcdaniel inc,mumbai,2025-05-04,Mid Level,"Communication, Statistics, Machine Learning, Python",8,12,https://vance.com/
+23,analytics intern,"bradley, silva and herrera",mumbai,2025-05-20,Internship,"Machine Learning, Statistics, Python, SQL, Tableau",1,2,http://www.johnson.info/
+24,data scientist,nelson-parker,remote,2025-05-13,Entry Level,"Power BI, Statistics, Python, Communication",3,5,http://www.tran-decker.net/
+25,data engineer,mcdaniel inc,bangalore,2025-04-30,Mid Level,"Power BI, SQL, Communication",10,11,http://www.lewis.biz/
+26,bi analyst,"phillips, phillips and phillips",hyderabad,2025-04-25,Senior Level,"Python, Power BI, Excel, Statistics",12,15,http://bender-jackson.com/
+27,ml engineer,proctor-evans,remote,2025-05-14,Entry Level,"Python, Machine Learning, Excel",4,5,https://www.young-gill.com/
+28,data analyst,"bray, hawkins and fowler",remote,2025-04-29,Mid Level,"SQL, Statistics, Communication",10,11,https://johnson.com/
+29,data analyst,pruitt inc,mumbai,2025-05-22,Mid Level,"Power BI, Tableau, Statistics",7,11,http://gates-holden.info/
+30,data analyst,"murphy, grant and anderson",mumbai,2025-05-11,Entry Level,"Power BI, Machine Learning, Statistics, Excel",5,6,https://www.lopez-reed.net/
+31,data scientist,nguyen-rice,gurgaon,2025-04-28,Entry Level,"Machine Learning, Statistics, Python, Communication",5,6,https://www.harmon.info/
+32,bi analyst,"murphy, grant and anderson",mumbai,2025-04-23,Entry Level,"Excel, Communication, Python, SQL",3,6,http://www.wade.com/
+33,ml engineer,bender plc,delhi,2025-05-17,Entry Level,"Python, Machine Learning, Tableau, Excel, Communication",5,6,http://valdez-ward.biz/
+34,data scientist,nguyen-rice,mumbai,2025-04-25,Senior Level,"Tableau, Communication, SQL, Excel",23,24,https://www.byrd.biz/
+35,data scientist,williams and sons,chennai,2025-04-23,Mid Level,"Statistics, Communication, Excel",8,9,https://www.cohen.com/
+36,data analyst,hickman group,pune,2025-04-29,Mid Level,"Communication, Tableau, Machine Learning",11,12,http://clayton.biz/
+37,bi analyst,sweeney plc,bangalore,2025-05-02,Entry Level,"Python, Statistics, Excel, Tableau, SQL",5,6,https://berry.com/
+38,bi analyst,"payne, smith and meyers",bangalore,2025-05-05,Entry Level,"Power BI, Machine Learning, Python",3,5,https://harrington.com/
+39,ml engineer,jordan llc,gurgaon,2025-05-16,Senior Level,"Excel, Statistics, SQL",23,24,https://www.rodriguez.com/
+40,bi analyst,lee-yang,delhi,2025-04-23,Mid Level,"Power BI, Excel, SQL, Python, Communication",8,12,https://norton.org/
+41,data analyst,wallace ltd,hyderabad,2025-05-18,Entry Level,"Power BI, SQL, Python, Statistics",4,6,https://bradley-phillips.info/
+42,bi analyst,"bass, west and morgan",chennai,2025-05-05,Senior Level,"Statistics, Machine Learning, Tableau, Excel",24,25,https://www.campbell-salinas.net/
+43,data analyst,"lloyd, hoffman and hill",chennai,2025-05-19,Entry Level,"Statistics, Excel, Machine Learning",4,5,http://krause.com/
+44,ml engineer,hayden and sons,mumbai,2025-04-30,Entry Level,"Python, Machine Learning, Power BI, Communication",5,6,https://www.white-dean.com/
+45,data engineer,nelson-parker,hyderabad,2025-05-16,Entry Level,"Machine Learning, Communication, Python, Excel",3,6,http://harrell.com/
+46,data engineer,carter-castro,gurgaon,2025-04-23,Entry Level,"Excel, SQL, Power BI, Machine Learning, Statistics",5,6,https://mcintyre.net/
+47,data engineer,"rivera, gardner and bradley",chennai,2025-05-17,Entry Level,"Power BI, Communication, Tableau, Machine Learning",3,5,http://www.marshall.com/
+48,analytics intern,barnes-leblanc,remote,2025-05-15,Internship,"Power BI, Tableau, Communication, SQL, Python",1,2,https://www.griffin.org/
+49,ml engineer,bryant-bush,pune,2025-05-21,Entry Level,"Power BI, Statistics, SQL, Machine Learning",3,6,http://www.jones.com/
+50,data analyst,wolfe-allison,hyderabad,2025-05-10,Senior Level,"Statistics, Machine Learning, Tableau, SQL",21,22,http://riley.org/
+51,analytics intern,"martin, thompson and barnes",gurgaon,2025-04-25,Internship,"Excel, Machine Learning, Statistics",1,2,https://www.roman.com/
+52,data analyst,"cole, simpson and barber",mumbai,2025-05-22,Mid Level,"Communication, Python, Tableau, SQL, Statistics",7,9,http://www.white.biz/
+53,bi analyst,stevenson plc,remote,2025-05-03,Mid Level,"Statistics, Communication, Tableau, Power BI",10,12,https://miranda.com/
+54,data scientist,underwood-morgan,remote,2025-05-22,Entry Level,"Communication, Machine Learning, SQL, Excel",3,6,https://www.rocha-brown.com/
+55,bi analyst,jones inc,chennai,2025-04-28,Entry Level,"SQL, Communication, Statistics, Machine Learning, Power BI",4,6,https://www.goodwin-waters.com/
+56,analytics intern,daniel-cherry,hyderabad,2025-04-23,Internship,"Machine Learning, Tableau, Power BI, Communication",1,2,http://www.hayes.com/
+57,data analyst,tate inc,gurgaon,2025-05-05,Entry Level,"Statistics, Power BI, Python, Excel, Tableau",5,6,https://www.osborne-jenkins.net/
+58,bi analyst,richardson-santos,hyderabad,2025-04-24,Entry Level,"Python, Power BI, Excel, Statistics",4,6,http://www.velez-johnson.info/
+59,analytics intern,watson-fox,remote,2025-05-03,Internship,"Python, Communication, Machine Learning, Power BI",1,2,https://peck.org/
+60,data scientist,huffman-hill,delhi,2025-05-12,Entry Level,"Communication, Excel, Statistics",4,6,https://www.little-jones.biz/
+61,bi analyst,brown-hensley,gurgaon,2025-05-07,Entry Level,"Python, Excel, SQL",3,5,http://www.reese.com/
+62,analytics intern,saunders and sons,bangalore,2025-05-11,Internship,"Python, Tableau, SQL",1,2,http://www.lawrence.com/
+63,data scientist,"payne, smith and meyers",remote,2025-05-07,Mid Level,"Tableau, Statistics, Excel, SQL",10,11,https://www.rice.com/
+64,data engineer,liu llc,mumbai,2025-05-12,Mid Level,"Python, Excel, Tableau",7,10,https://lee.com/
+65,analytics intern,miller-williams,gurgaon,2025-05-12,Internship,"Power BI, Python, Machine Learning, Excel, Statistics",1,2,http://www.williams.info/
+66,data engineer,wolfe-allison,pune,2025-05-21,Mid Level,"Machine Learning, Python, Power BI",11,12,https://valenzuela.org/
+67,bi analyst,campbell and sons,gurgaon,2025-05-07,Senior Level,"Excel, Power BI, SQL, Tableau, Communication",22,24,http://www.simmons.info/
+68,data engineer,nelson-parker,remote,2025-05-09,Entry Level,"Power BI, Statistics, Python, Excel",5,6,https://www.griffin-jones.org/
+69,bi analyst,rogers-branch,remote,2025-05-09,Mid Level,"Python, Power BI, Excel, SQL",11,12,https://smith.net/
+70,bi analyst,ford llc,pune,2025-05-17,Mid Level,"Tableau, Communication, Python, Statistics, SQL",8,11,https://deleon.net/
+71,data analyst,caldwell ltd,gurgaon,2025-05-05,Entry Level,"Communication, Power BI, Python, Machine Learning",3,6,http://morales.com/
+72,ml engineer,"robinson, valencia and smith",gurgaon,2025-04-23,Mid Level,"Machine Learning, Power BI, Communication, Tableau",8,11,https://www.rivera.com/
+73,ml engineer,poole plc,remote,2025-05-17,Entry Level,"Power BI, Excel, Python",4,5,http://rowe-davis.com/
+74,analytics intern,nelson-parker,delhi,2025-05-17,Internship,"Communication, Excel, Machine Learning, Tableau, Statistics",1,2,https://www.diaz.net/
+75,data analyst,harris-peterson,chennai,2025-05-21,Entry Level,"Excel, Communication, Python",3,5,http://parker-estrada.info/
+76,data analyst,"watkins, robinson and perkins",chennai,2025-04-30,Mid Level,"Python, Tableau, Excel",7,11,https://todd.com/
+77,bi analyst,"phillips, phillips and phillips",remote,2025-05-09,Entry Level,"SQL, Statistics, Python, Power BI",3,5,http://www.jimenez-miller.com/
+78,bi analyst,jones inc,bangalore,2025-05-20,Entry Level,"Power BI, Python, Tableau",5,6,http://www.vaughan-jackson.com/
+79,bi analyst,liu llc,hyderabad,2025-05-04,Mid Level,"Tableau, Statistics, Communication, Power BI",9,11,http://newman-parker.com/
+80,ml engineer,"rivera, gardner and bradley",bangalore,2025-05-21,Mid Level,"Power BI, Excel, Machine Learning",11,12,http://jackson-shaw.com/
+81,data analyst,"vaughn, valencia and sullivan",hyderabad,2025-05-22,Entry Level,"Statistics, Power BI, Machine Learning",3,4,http://www.jimenez.info/
+82,data engineer,wallace ltd,chennai,2025-04-23,Entry Level,"Communication, Python, Machine Learning, SQL, Excel",4,6,http://www.smith.com/
+83,analytics intern,conley group,hyderabad,2025-05-22,Internship,"Power BI, Machine Learning, SQL, Excel, Statistics",1,2,https://salinas.com/
+84,data analyst,adams ltd,delhi,2025-05-22,Mid Level,"SQL, Power BI, Machine Learning, Excel",10,12,http://www.dickerson.com/
+85,analytics intern,dominguez-clayton,chennai,2025-04-30,Internship,"Python, Power BI, Machine Learning",1,2,https://www.myers.com/
+86,ml engineer,liu llc,chennai,2025-05-17,Entry Level,"Python, Statistics, Machine Learning, Excel, Communication",3,6,http://www.mahoney.com/
+87,data scientist,wallace ltd,remote,2025-04-29,Senior Level,"Communication, Python, Power BI, Excel",14,24,http://farley.info/
+88,bi analyst,"bass, west and morgan",pune,2025-05-06,Mid Level,"Communication, Excel, Machine Learning, Power BI",7,10,https://www.smith.com/
+89,data engineer,kirby plc,remote,2025-04-27,Entry Level,"Statistics, Communication, Tableau",4,6,https://parker-moore.com/
+90,data analyst,lewis ltd,remote,2025-05-06,Entry Level,"Communication, Machine Learning, Power BI, Python",3,6,https://ray.com/
+91,data scientist,"jones, gutierrez and shaffer",delhi,2025-04-23,Senior Level,"SQL, Python, Machine Learning, Tableau",19,25,http://harrison-davis.com/
+92,data scientist,williams-bell,delhi,2025-05-03,Entry Level,"SQL, Communication, Python, Power BI",3,6,http://www.richardson-munoz.com/
+93,data analyst,"parker, manning and bell",delhi,2025-05-12,Entry Level,"Tableau, Power BI, Statistics, Machine Learning, SQL",5,6,http://wright.com/
+94,bi analyst,"watkins, robinson and perkins",delhi,2025-05-06,Entry Level,"Tableau, Statistics, Power BI",5,6,http://carpenter.info/
+95,ml engineer,herring-whitney,chennai,2025-05-08,Senior Level,"Communication, Statistics, SQL, Power BI, Tableau",16,21,https://mitchell.com/
+96,ml engineer,"bass, west and morgan",gurgaon,2025-04-23,Entry Level,"Power BI, Tableau, Communication, SQL, Machine Learning",4,5,http://gonzales-harrington.com/
+97,data analyst,adkins-moyer,remote,2025-05-22,Mid Level,"Excel, Power BI, Python, SQL, Communication",9,11,http://www.dalton-myers.com/
+98,data analyst,carson inc,mumbai,2025-05-18,Mid Level,"Excel, Power BI, Machine Learning, SQL, Python",9,10,http://ford-williams.com/
+99,bi analyst,nguyen-rice,pune,2025-04-26,Mid Level,"Machine Learning, Statistics, Communication",9,12,https://dominguez.com/
+100,data engineer,miller-williams,pune,2025-05-22,Mid Level,"SQL, Communication, Machine Learning",9,12,http://bray.com/
+101,analytics intern,bender plc,hyderabad,2025-04-25,Internship,"SQL, Power BI, Communication",1,2,http://harper.com/
+102,analytics intern,lara-conner,bangalore,2025-05-19,Internship,"Tableau, Excel, Statistics",1,2,https://hamilton.com/
+103,bi analyst,"buchanan, cuevas and evans",hyderabad,2025-05-01,Mid Level,"Excel, Python, Tableau",10,11,http://www.lynch-davis.org/
+104,bi analyst,"murphy, grant and anderson",hyderabad,2025-04-25,Entry Level,"Communication, Machine Learning, Excel",5,6,http://www.flores.com/
+105,bi analyst,hernandez and sons,bangalore,2025-05-13,Senior Level,"Excel, Python, Power BI, Communication, Tableau",19,22,https://www.russo.com/
+106,analytics intern,proctor-evans,chennai,2025-05-21,Internship,"Statistics, Communication, Power BI",1,2,https://brown-stevenson.biz/
+107,data analyst,caldwell ltd,gurgaon,2025-05-07,Mid Level,"Tableau, Python, Machine Learning, Power BI, Excel",10,12,http://www.parsons.com/
+108,data analyst,"rivera, gardner and bradley",bangalore,2025-05-16,Senior Level,"Power BI, Tableau, Excel, SQL",23,25,http://morgan-hall.com/
+109,analytics intern,harris-peterson,chennai,2025-05-04,Internship,"Python, Excel, Power BI, Communication, Statistics",1,2,https://www.howell.com/
+110,analytics intern,"payne, smith and meyers",mumbai,2025-04-30,Internship,"Statistics, SQL, Communication, Machine Learning, Excel",1,2,https://miller.biz/
+111,data engineer,herring-whitney,chennai,2025-04-25,Senior Level,"Machine Learning, Statistics, Python, Power BI",16,24,https://calhoun.com/
+112,data analyst,"buchanan, cuevas and evans",hyderabad,2025-05-17,Senior Level,"Machine Learning, Python, Power BI, Statistics, Excel",23,25,http://www.powell-hoffman.com/
+113,data engineer,mendez-carter,remote,2025-05-13,Entry Level,"Statistics, Communication, Machine Learning, Excel, Python",5,6,https://lowe-ford.org/
+114,analytics intern,rojas-hall,remote,2025-04-29,Internship,"Power BI, Machine Learning, Python, Communication, Excel",1,2,http://www.macdonald.com/
+115,analytics intern,gonzalez-chang,mumbai,2025-05-02,Internship,"Tableau, Power BI, Python",1,2,https://www.johnson-wilson.com/
+116,data analyst,caldwell ltd,delhi,2025-04-27,Entry Level,"Excel, Power BI, Machine Learning, Python, Statistics",4,6,http://sanders-padilla.info/
+117,data engineer,gonzalez-chang,chennai,2025-05-14,Entry Level,"Communication, SQL, Excel, Python",4,5,http://marshall.com/
+118,analytics intern,"harrell, thompson and butler",pune,2025-05-17,Internship,"Power BI, Python, Communication, Statistics",1,2,http://fox-hernandez.info/
+119,analytics intern,ford llc,bangalore,2025-05-01,Internship,"Excel, Statistics, Tableau",1,2,http://terrell-cantu.com/
+120,data scientist,saunders and sons,hyderabad,2025-05-05,Mid Level,"Python, Excel, SQL",7,10,http://smith.com/
+121,data scientist,williams and sons,chennai,2025-05-20,Mid Level,"Excel, Python, Communication",6,12,http://simmons.com/
+122,data scientist,conley group,pune,2025-05-11,Entry Level,"Statistics, Tableau, Python",4,5,http://www.rosales.com/
+123,analytics intern,saunders and sons,remote,2025-05-03,Internship,"SQL, Power BI, Tableau, Communication, Python",1,2,https://www.scott-ward.org/
+124,analytics intern,lewis ltd,chennai,2025-05-06,Internship,"Communication, Statistics, Power BI",1,2,http://www.wilson.biz/
+125,bi analyst,williams and sons,mumbai,2025-05-01,Entry Level,"Machine Learning, Tableau, SQL",4,5,http://www.mitchell.com/
+126,data analyst,"payne, smith and meyers",chennai,2025-05-08,Mid Level,"Tableau, Power BI, Communication, Machine Learning",10,12,https://www.armstrong.net/
+127,bi analyst,mcdaniel inc,mumbai,2025-05-15,Senior Level,"Power BI, Communication, Statistics, SQL, Machine Learning",22,25,https://reynolds.net/
+128,ml engineer,green ltd,gurgaon,2025-05-01,Entry Level,"Machine Learning, Communication, Excel, Statistics",3,5,http://webb.net/
+129,data scientist,williams and sons,remote,2025-05-20,Entry Level,"SQL, Machine Learning, Statistics, Excel",3,4,https://www.dorsey.com/
+130,data scientist,sweeney plc,bangalore,2025-05-07,Mid Level,"SQL, Power BI, Excel, Statistics, Python",10,12,http://mcgrath.com/
+131,ml engineer,pruitt inc,chennai,2025-05-18,Entry Level,"Communication, SQL, Python",5,6,https://reyes.com/
+132,ml engineer,sweeney plc,pune,2025-05-05,Entry Level,"Python, Tableau, Machine Learning, Excel",4,5,http://www.petersen-burnett.net/
+133,data analyst,burke and sons,chennai,2025-04-27,Mid Level,"Python, SQL, Statistics, Tableau",8,11,https://hamilton.info/
+134,analytics intern,dominguez-clayton,mumbai,2025-04-27,Internship,"Power BI, Communication, Statistics",1,2,https://spencer-morris.net/
+135,bi analyst,burke-meza,delhi,2025-05-15,Entry Level,"SQL, Python, Communication, Machine Learning, Statistics",5,6,https://delgado-mcdowell.org/
+136,analytics intern,"black, murray and sullivan",chennai,2025-05-18,Internship,"Communication, Power BI, Excel, SQL",1,2,http://edwards.com/
+137,data engineer,"lloyd, hoffman and hill",pune,2025-05-10,Entry Level,"Tableau, Python, SQL, Power BI, Statistics",4,6,https://anderson-taylor.com/
+138,data analyst,tate inc,chennai,2025-05-16,Senior Level,"Tableau, Excel, Python, Machine Learning",24,25,http://www.burke-harding.org/
+139,bi analyst,underwood-morgan,gurgaon,2025-05-10,Entry Level,"Machine Learning, Python, Power BI, Statistics, Communication",4,5,https://shields.com/
+140,data analyst,green ltd,mumbai,2025-05-11,Senior Level,"Statistics, Machine Learning, Communication, Power BI, Excel",21,25,https://cameron.biz/
+141,data analyst,dominguez-clayton,bangalore,2025-05-12,Senior Level,"Machine Learning, Python, Power BI, Statistics",14,24,https://osborn-butler.org/
+142,data scientist,hayden and sons,gurgaon,2025-05-17,Mid Level,"Machine Learning, SQL, Excel, Statistics, Python",9,11,https://arellano.com/
+143,data engineer,mcmillan group,mumbai,2025-05-05,Mid Level,"Excel, SQL, Python, Statistics",7,10,http://www.rose.com/
+144,ml engineer,church group,delhi,2025-05-07,Mid Level,"Communication, Power BI, Tableau",11,12,http://nguyen-romero.com/
+145,data engineer,graves-cole,pune,2025-05-05,Senior Level,"Communication, Python, Power BI",22,24,https://eaton.com/
+146,bi analyst,smith inc,chennai,2025-05-01,Mid Level,"SQL, Excel, Power BI, Machine Learning",10,11,http://www.wilson-sims.net/
+147,data analyst,adams ltd,pune,2025-04-30,Senior Level,"Statistics, Power BI, Tableau",13,24,http://www.bailey.com/
+148,data engineer,"randolph, rivers and richardson",bangalore,2025-05-22,Entry Level,"Communication, Tableau, SQL, Python",5,6,https://callahan.com/
+149,bi analyst,campbell and sons,pune,2025-05-12,Senior Level,"Excel, Python, SQL, Power BI, Tableau",13,22,http://www.gonzalez-sutton.com/
+150,data engineer,"young, harding and webb",delhi,2025-04-29,Entry Level,"Machine Learning, Communication, Tableau, Python",4,6,http://www.pacheco.com/
+151,analytics intern,"parker, manning and bell",pune,2025-04-28,Internship,"Statistics, Excel, Communication",1,2,http://www.foster.com/
+152,analytics intern,lewis ltd,delhi,2025-04-25,Internship,"Excel, Communication, Statistics, Power BI, SQL",1,2,https://www.fitzgerald-clark.com/
+153,data engineer,williams-bell,mumbai,2025-05-06,Entry Level,"SQL, Machine Learning, Statistics",4,6,http://perez.com/
+154,bi analyst,bryant-bush,pune,2025-05-20,Entry Level,"Machine Learning, Statistics, Power BI",4,5,http://www.taylor.info/
+155,data scientist,"robinson, valencia and smith",delhi,2025-05-19,Entry Level,"Python, Machine Learning, Excel, Tableau, SQL",4,5,https://jimenez.com/
+156,data engineer,miller-williams,delhi,2025-05-09,Entry Level,"Communication, Python, Power BI, Excel, SQL",5,6,http://bowman-orozco.org/
+157,bi analyst,"delgado, caldwell and weeks",chennai,2025-04-28,Mid Level,"Power BI, Excel, Communication, SQL, Statistics",9,10,https://www.nunez.com/
+158,analytics intern,smith-scott,remote,2025-05-21,Internship,"Statistics, SQL, Communication, Tableau",1,2,http://www.rivera-cherry.biz/
+159,data scientist,hernandez and sons,bangalore,2025-05-20,Mid Level,"SQL, Excel, Python, Communication, Statistics",8,9,https://www.barrera.com/
+160,bi analyst,bryant-bush,delhi,2025-05-21,Senior Level,"Machine Learning, Python, Power BI, Statistics",13,17,https://www.rodriguez.org/
+161,bi analyst,herring-whitney,pune,2025-05-11,Entry Level,"Python, Excel, Communication",3,5,https://garcia.com/
+162,analytics intern,"bradley, silva and herrera",pune,2025-05-11,Internship,"Tableau, Statistics, Power BI",1,2,https://mason-baker.com/
+163,analytics intern,stevenson plc,remote,2025-05-14,Internship,"Python, Excel, SQL",1,2,http://smith.com/
+164,data scientist,"watkins, robinson and perkins",gurgaon,2025-05-14,Entry Level,"SQL, Python, Communication, Power BI",4,5,http://www.rivera.com/
+165,analytics intern,"murphy, grant and anderson",remote,2025-05-03,Internship,"Python, Machine Learning, Tableau, Statistics",1,2,http://www.hill.info/
+166,data scientist,williams llc,delhi,2025-05-12,Entry Level,"Power BI, Tableau, Communication, SQL",3,6,https://www.moore.com/
+167,analytics intern,greene plc,mumbai,2025-05-13,Internship,"Python, Power BI, Statistics, Communication, Machine Learning",1,2,https://sutton.info/
+168,ml engineer,hernandez and sons,bangalore,2025-05-09,Entry Level,"SQL, Statistics, Tableau",3,5,https://www.love.com/
+169,analytics intern,"cole, simpson and barber",pune,2025-04-28,Internship,"Machine Learning, Statistics, Communication, SQL",1,2,https://garcia-anderson.com/
+170,analytics intern,huffman-hill,remote,2025-05-05,Internship,"Communication, Python, Excel",1,2,http://jensen.info/
+171,data scientist,wolfe-allison,hyderabad,2025-05-16,Senior Level,"Statistics, Communication, Tableau, Power BI, Excel",17,22,http://kelley.com/
+172,data analyst,"cole, simpson and barber",hyderabad,2025-04-28,Entry Level,"Tableau, Python, Excel, Power BI",3,6,http://murray-hunt.com/
+173,bi analyst,underwood-morgan,remote,2025-05-06,Senior Level,"Communication, Machine Learning, Power BI",18,21,https://www.werner-morton.com/
+174,ml engineer,"young, harding and webb",chennai,2025-05-13,Senior Level,"Statistics, Tableau, SQL",23,25,https://www.smith-young.info/
+175,data engineer,smith-foster,pune,2025-05-05,Entry Level,"Communication, Tableau, Machine Learning, Power BI",4,6,http://hurst.com/
+176,data scientist,burns-ray,remote,2025-05-11,Entry Level,"Statistics, Excel, Machine Learning, Python",3,6,https://davenport-myers.org/
+177,data analyst,greene plc,gurgaon,2025-05-22,Entry Level,"Excel, Statistics, Tableau",5,6,http://coleman.com/
+178,analytics intern,carson inc,bangalore,2025-05-19,Internship,"Machine Learning, Excel, Power BI",1,2,https://www.barker-mclean.org/
+179,data engineer,kirby plc,delhi,2025-05-03,Mid Level,"SQL, Tableau, Communication, Statistics",8,11,http://page.com/
+180,ml engineer,"lowe, wilson and ford",pune,2025-05-15,Mid Level,"Excel, Power BI, Tableau",7,8,http://www.brown-boyer.net/
+181,bi analyst,sweeney plc,mumbai,2025-05-17,Entry Level,"Tableau, Machine Learning, Power BI",4,6,http://martin.com/
+182,data scientist,mendez-carter,delhi,2025-05-21,Senior Level,"Communication, Python, Machine Learning, Excel, Tableau",19,21,https://simmons-parker.biz/
+183,analytics intern,saunders and sons,chennai,2025-04-25,Internship,"Excel, Statistics, Communication, Tableau, SQL",1,2,https://kemp-williams.com/
+184,data analyst,church group,delhi,2025-04-23,Entry Level,"Machine Learning, Power BI, Tableau, SQL",4,5,http://www.dean.biz/
+185,data engineer,taylor llc,mumbai,2025-05-18,Entry Level,"Statistics, Communication, Power BI, Tableau, Python",5,6,https://davis-wilson.info/
+186,data scientist,adkins-moyer,mumbai,2025-05-20,Entry Level,"Excel, Statistics, SQL",5,6,https://www.cole.com/
+187,bi analyst,herring-whitney,bangalore,2025-05-15,Senior Level,"Excel, SQL, Communication, Statistics",20,22,http://www.miller-rivera.com/
+188,ml engineer,"young, harding and webb",chennai,2025-05-07,Senior Level,"Tableau, SQL, Machine Learning, Excel, Python",16,20,http://scott-salinas.net/
+189,data engineer,"parker, manning and bell",delhi,2025-05-01,Mid Level,"Machine Learning, Statistics, Tableau",10,11,https://wade.com/
+190,data analyst,lee-yang,mumbai,2025-05-09,Entry Level,"Power BI, Statistics, Tableau, Communication, Python",5,6,http://www.reed.com/
+191,bi analyst,smith inc,chennai,2025-05-04,Mid Level,"Statistics, Excel, Power BI",8,12,https://www.malone-lee.info/
+192,data analyst,burns-ray,bangalore,2025-05-07,Entry Level,"Power BI, Excel, Tableau, SQL",4,6,http://blake.com/
+193,ml engineer,williams llc,pune,2025-05-13,Mid Level,"Machine Learning, Tableau, Statistics",8,12,http://www.williams.com/
+194,data analyst,adkins-moyer,hyderabad,2025-04-29,Entry Level,"Excel, Python, Statistics",4,6,https://www.wallace.org/
+195,ml engineer,hale-massey,gurgaon,2025-05-16,Entry Level,"Machine Learning, SQL, Statistics, Power BI, Tableau",3,5,http://phillips.info/
+196,bi analyst,carter-castro,remote,2025-05-07,Entry Level,"Power BI, Tableau, Excel",4,6,https://www.mason.com/
+197,data analyst,"bray, hawkins and fowler",chennai,2025-05-15,Entry Level,"Python, Statistics, Communication, Power BI",5,6,http://simmons.net/
+198,data scientist,nguyen-rice,pune,2025-05-15,Mid Level,"Python, Tableau, Statistics, SQL",8,9,http://smith-shepherd.net/
+199,ml engineer,"watkins, robinson and perkins",chennai,2025-05-02,Entry Level,"Tableau, Statistics, Communication, Machine Learning, Python",5,6,http://www.jefferson.net/
+200,data scientist,mcdaniel inc,gurgaon,2025-05-08,Entry Level,"Power BI, Tableau, Statistics",4,6,http://www.lutz-clayton.com/
+201,bi analyst,herring-whitney,bangalore,2025-04-28,Entry Level,"Communication, Tableau, Power BI, SQL",3,6,http://www.schultz-williams.org/
+202,data engineer,bryant-bush,delhi,2025-04-23,Entry Level,"Statistics, Tableau, Machine Learning",5,6,https://www.perez.com/
+203,ml engineer,conley group,pune,2025-05-14,Mid Level,"Tableau, Power BI, Python, Excel, Communication",10,12,https://spencer.com/
+204,analytics intern,"lloyd, hoffman and hill",gurgaon,2025-05-18,Internship,"Communication, Excel, Machine Learning, Tableau, SQL",1,2,https://www.joseph.info/
+205,analytics intern,"bray, hawkins and fowler",remote,2025-04-29,Internship,"Power BI, Python, Tableau",1,2,http://www.cervantes-henry.com/
+206,analytics intern,"lloyd, hoffman and hill",hyderabad,2025-05-07,Internship,"Statistics, SQL, Power BI, Communication",1,2,http://www.marsh.net/
+207,bi analyst,herring-whitney,remote,2025-05-10,Senior Level,"Excel, Tableau, SQL, Statistics, Communication",23,24,http://www.green.org/
+208,analytics intern,"phillips, phillips and phillips",gurgaon,2025-05-22,Internship,"Machine Learning, Tableau, Excel, Communication",1,2,http://www.curtis-wright.com/
+209,data engineer,"phillips, phillips and phillips",hyderabad,2025-05-02,Senior Level,"Power BI, Excel, Statistics, SQL",16,25,http://www.craig.com/
+210,analytics intern,williams-bell,remote,2025-04-29,Internship,"Tableau, Excel, Python, Communication",1,2,https://norris.com/
+211,analytics intern,williams and sons,gurgaon,2025-05-11,Internship,"Tableau, Python, Excel",1,2,http://www.gray-torres.com/
+212,analytics intern,"black, murray and sullivan",pune,2025-05-02,Internship,"Communication, SQL, Statistics, Tableau, Excel",1,2,https://www.craig-patterson.com/
+213,data engineer,"martin, thompson and barnes",chennai,2025-05-17,Entry Level,"Python, Machine Learning, Tableau",5,6,https://ray.com/
+214,data scientist,mcmillan group,hyderabad,2025-05-04,Entry Level,"Communication, Python, Machine Learning, SQL, Statistics",4,6,https://leonard.com/
+215,data engineer,"vaughn, valencia and sullivan",gurgaon,2025-05-19,Mid Level,"Power BI, Statistics, Excel, Machine Learning, Tableau",9,11,https://boyer-wright.com/
+216,analytics intern,adams ltd,mumbai,2025-05-18,Internship,"Statistics, Communication, SQL",1,2,https://www.rubio-davies.com/
+217,data analyst,"lowe, wilson and ford",remote,2025-04-27,Entry Level,"Python, Excel, Tableau",5,6,https://www.franco-thompson.com/
+218,data engineer,campbell and sons,pune,2025-04-26,Entry Level,"Communication, Excel, SQL",5,6,http://www.zamora.com/
+219,data analyst,"bass, west and morgan",delhi,2025-04-23,Mid Level,"Excel, Python, Machine Learning, Communication, Tableau",11,12,http://brown.org/
+220,data engineer,baker llc,hyderabad,2025-05-06,Entry Level,"Machine Learning, Python, Power BI, Statistics",5,6,http://www.taylor.net/
+221,data scientist,stevenson plc,remote,2025-04-26,Entry Level,"Statistics, SQL, Power BI, Excel",3,4,https://donaldson-fields.org/
+222,ml engineer,lara-conner,bangalore,2025-05-21,Entry Level,"SQL, Power BI, Excel",4,5,https://cook.biz/
+223,data scientist,dominguez-clayton,chennai,2025-05-14,Mid Level,"Power BI, SQL, Statistics, Communication",11,12,https://cochran-pena.com/
+224,data scientist,green ltd,pune,2025-04-29,Entry Level,"Power BI, Statistics, SQL, Tableau, Python",5,6,http://www.lara.info/
+225,data engineer,graves-cole,pune,2025-05-02,Entry Level,"Power BI, Tableau, Statistics",5,6,http://www.lambert-ross.com/
+226,data scientist,watson-fox,pune,2025-05-10,Senior Level,"Power BI, Machine Learning, Tableau, Communication, Python",19,20,https://www.gibson.com/
+227,data engineer,graves-cole,bangalore,2025-05-20,Entry Level,"Python, Tableau, Power BI, Excel",5,6,http://www.gutierrez.net/
+228,analytics intern,reed-lane,gurgaon,2025-05-15,Internship,"Power BI, Tableau, Python, Machine Learning, Communication",1,2,https://phillips.info/
+229,ml engineer,"martin, thompson and barnes",mumbai,2025-04-30,Mid Level,"Python, Excel, Power BI, SQL",6,7,https://macdonald-ortiz.net/
+230,data scientist,turner llc,gurgaon,2025-05-03,Entry Level,"Statistics, Python, Machine Learning, Tableau",4,6,https://harding.com/
+231,data scientist,"bradley, silva and herrera",pune,2025-05-14,Entry Level,"Excel, Machine Learning, SQL, Python, Tableau",5,6,https://www.jenkins.com/
+232,ml engineer,huffman-hill,gurgaon,2025-05-22,Mid Level,"Machine Learning, SQL, Excel, Statistics",7,9,http://www.hunt-martin.net/
+233,analytics intern,murphy group,mumbai,2025-05-07,Internship,"Python, SQL, Statistics, Communication, Tableau",1,2,http://lopez-pham.com/
+234,data engineer,kirby plc,remote,2025-05-08,Mid Level,"Python, Power BI, Statistics",11,12,https://www.johnson-clark.biz/
+235,data scientist,williams and sons,hyderabad,2025-04-30,Mid Level,"Tableau, SQL, Machine Learning, Communication, Excel",6,8,http://phillips.biz/
+236,data engineer,pruitt inc,pune,2025-04-24,Entry Level,"Power BI, Communication, Excel, Machine Learning, Python",3,6,http://carrillo.org/
+237,data engineer,conley group,delhi,2025-05-21,Mid Level,"Python, Excel, Machine Learning, Power BI",9,12,https://www.gallegos.com/
+238,data engineer,adkins-moyer,gurgaon,2025-05-20,Entry Level,"Communication, SQL, Statistics",4,6,https://mejia.com/
+239,ml engineer,williams-bell,delhi,2025-05-18,Senior Level,"Statistics, Tableau, Communication, SQL",12,21,https://www.tyler.com/
+240,bi analyst,rogers-branch,chennai,2025-05-09,Entry Level,"Machine Learning, Python, Tableau, SQL",5,6,http://johnston-sullivan.com/
+241,data analyst,"jones, gutierrez and shaffer",gurgaon,2025-04-27,Mid Level,"Power BI, Statistics, Tableau",10,11,https://rodriguez.com/
+242,analytics intern,greene plc,hyderabad,2025-05-17,Internship,"Tableau, Python, SQL, Machine Learning",1,2,https://www.miller-ibarra.info/
+243,analytics intern,mendez-carter,remote,2025-05-14,Internship,"Power BI, Tableau, Excel, Machine Learning",1,2,https://carter.com/
+244,bi analyst,huffman-hill,pune,2025-04-24,Entry Level,"SQL, Statistics, Machine Learning, Power BI",4,6,http://huynh.com/
+245,ml engineer,tate inc,pune,2025-04-26,Entry Level,"Excel, Python, Communication",3,6,https://www.henry-stewart.com/
+246,data engineer,nelson-juarez,gurgaon,2025-05-08,Entry Level,"Statistics, Tableau, SQL",3,5,https://www.vazquez.com/
+247,bi analyst,"watkins, robinson and perkins",pune,2025-04-28,Entry Level,"Excel, Machine Learning, Communication, SQL",4,6,http://www.hill.biz/
+248,data scientist,hernandez-oneill,remote,2025-04-27,Entry Level,"Python, Statistics, Communication, Machine Learning, Tableau",5,6,https://www.jackson-bean.com/
+249,bi analyst,stevenson plc,hyderabad,2025-05-09,Entry Level,"Communication, Excel, Python",3,4,http://www.wright.net/
+250,data engineer,mcmillan group,remote,2025-05-10,Mid Level,"Statistics, Python, Communication, Tableau, Excel",6,7,http://www.downs-harris.com/
+251,data engineer,bender plc,bangalore,2025-05-17,Mid Level,"SQL, Python, Tableau",11,12,http://young-edwards.com/
+252,data scientist,caldwell ltd,hyderabad,2025-05-07,Mid Level,"Statistics, Python, Excel, Power BI",8,11,http://www.matthews.biz/
+253,bi analyst,"rivera, gardner and bradley",hyderabad,2025-05-22,Senior Level,"SQL, Machine Learning, Statistics, Python, Tableau",15,20,https://www.watkins-doyle.com/
+254,bi analyst,miller-williams,gurgaon,2025-04-27,Mid Level,"Excel, Python, Power BI",6,12,http://www.moore.com/
+255,bi analyst,"parker, manning and bell",pune,2025-04-28,Mid Level,"Power BI, SQL, Machine Learning",6,11,http://www.green-valdez.info/
+256,data engineer,wallace ltd,chennai,2025-05-07,Entry Level,"Python, SQL, Excel, Communication",3,6,https://rios.com/
+257,data scientist,conley group,delhi,2025-04-29,Mid Level,"Tableau, SQL, Communication",11,12,http://www.blair.info/
+258,data scientist,"rivera, gardner and bradley",gurgaon,2025-05-01,Mid Level,"Excel, Statistics, Machine Learning, Python",10,12,http://harding-moore.com/
+259,data engineer,underwood-morgan,pune,2025-04-29,Entry Level,"Machine Learning, Tableau, Statistics",4,5,https://www.lamb.biz/
+260,data engineer,"lowe, wilson and ford",pune,2025-05-09,Entry Level,"Power BI, Excel, Tableau, Communication",4,6,https://www.nelson.com/
+261,bi analyst,burke and sons,gurgaon,2025-05-16,Entry Level,"SQL, Python, Excel",5,6,http://www.jennings.com/
+262,data scientist,miller-williams,delhi,2025-04-24,Mid Level,"SQL, Python, Excel",8,11,http://www.garcia.biz/
+263,bi analyst,alvarado-carey,chennai,2025-04-28,Entry Level,"Communication, Tableau, Statistics, Machine Learning",3,4,https://harris-brown.com/
+264,bi analyst,campbell and sons,bangalore,2025-05-15,Entry Level,"Machine Learning, Statistics, Power BI, Python, Excel",5,6,https://wilson.org/
+265,bi analyst,hale-massey,mumbai,2025-05-09,Mid Level,"Excel, Machine Learning, Power BI, SQL, Tableau",10,11,https://www.cardenas-hansen.biz/
+266,ml engineer,lara-conner,chennai,2025-05-14,Entry Level,"Tableau, Power BI, Excel, Statistics",3,4,https://berry.info/
+267,data analyst,alvarado-carey,chennai,2025-05-06,Senior Level,"Power BI, Communication, Python, SQL, Excel",23,25,https://www.nolan.info/
+268,data analyst,"lowe, wilson and ford",pune,2025-05-19,Senior Level,"Communication, Excel, Power BI, Tableau",18,25,https://www.webster-robinson.com/
+269,data scientist,lara-conner,pune,2025-05-17,Mid Level,"Machine Learning, SQL, Power BI, Excel",11,12,https://kim-stafford.info/
+270,ml engineer,"randolph, rivers and richardson",remote,2025-05-06,Senior Level,"Statistics, Excel, Power BI, Communication",24,25,http://www.gilmore-taylor.com/
+271,data analyst,"rivera, gardner and bradley",hyderabad,2025-04-29,Mid Level,"Python, Machine Learning, Power BI, SQL, Statistics",10,11,http://rose.com/
+272,ml engineer,burns-ray,mumbai,2025-05-12,Senior Level,"Communication, SQL, Machine Learning, Excel, Statistics",24,25,http://www.english.com/
+273,ml engineer,lewis ltd,delhi,2025-05-04,Mid Level,"Communication, Tableau, Power BI, Statistics",9,10,https://martinez.info/
+274,data engineer,burns-ray,gurgaon,2025-05-07,Mid Level,"Power BI, Machine Learning, Statistics",8,9,https://neal.com/
+275,ml engineer,watson-fox,bangalore,2025-05-09,Mid Level,"Statistics, Python, Communication, Machine Learning",11,12,http://johnson.com/
+276,ml engineer,"robinson, valencia and smith",hyderabad,2025-05-11,Entry Level,"Excel, Communication, Python, Power BI, Machine Learning",4,6,https://mckinney.net/
+277,ml engineer,richardson-santos,mumbai,2025-05-14,Entry Level,"Tableau, Excel, Power BI, SQL",5,6,http://www.mitchell.com/
+278,data engineer,"phillips, phillips and phillips",pune,2025-05-12,Entry Level,"SQL, Excel, Python, Machine Learning",4,6,https://www.andrews.com/
+279,data analyst,burke-meza,mumbai,2025-05-12,Mid Level,"Excel, Tableau, SQL, Communication, Power BI",7,9,http://butler.com/
+280,bi analyst,rojas-hall,gurgaon,2025-04-28,Mid Level,"Python, Machine Learning, Tableau, SQL",7,11,https://www.perkins.com/
+281,bi analyst,conley group,gurgaon,2025-04-23,Entry Level,"Tableau, Statistics, Machine Learning",5,6,http://hahn.com/
+282,data analyst,smith-scott,mumbai,2025-05-21,Mid Level,"Machine Learning, SQL, Power BI, Python",10,11,http://www.carter.com/
+283,ml engineer,greene plc,remote,2025-04-29,Mid Level,"Statistics, Tableau, Power BI, Communication, Python",11,12,https://brady.com/
+284,ml engineer,poole plc,remote,2025-04-26,Mid Level,"SQL, Machine Learning, Communication, Excel, Python",11,12,http://johnson-bell.com/
+285,data scientist,carter-castro,mumbai,2025-04-25,Entry Level,"Statistics, Power BI, Tableau, SQL, Communication",5,6,https://singleton-gonzalez.org/
+286,bi analyst,burke and sons,remote,2025-05-03,Mid Level,"Excel, Power BI, Communication, SQL, Tableau",11,12,https://mccormick-mcconnell.info/
+287,ml engineer,graves-cole,bangalore,2025-05-17,Senior Level,"Power BI, Statistics, Communication",12,20,https://walker-martin.com/
+288,data engineer,herring-whitney,remote,2025-05-08,Entry Level,"Communication, Power BI, SQL, Python, Tableau",4,6,https://cannon.net/
+289,data scientist,smith-foster,bangalore,2025-04-24,Entry Level,"Communication, Tableau, Machine Learning",5,6,http://miller.biz/
+290,bi analyst,"watkins, robinson and perkins",mumbai,2025-04-29,Mid Level,"Python, Statistics, Machine Learning, Power BI, SQL",8,11,http://anderson.net/
+291,bi analyst,campbell and sons,hyderabad,2025-05-08,Entry Level,"Machine Learning, Statistics, Python, Power BI",3,5,http://www.burton.com/
+292,data analyst,jordan llc,hyderabad,2025-05-17,Entry Level,"Statistics, SQL, Tableau, Communication, Machine Learning",5,6,http://www.maxwell-juarez.com/
+293,data scientist,adams ltd,pune,2025-05-08,Mid Level,"Tableau, Excel, Communication, Statistics",10,11,https://gonzales.com/
+294,data engineer,baker llc,mumbai,2025-05-07,Entry Level,"Excel, Machine Learning, SQL, Statistics",4,5,https://www.miller.com/
+295,data scientist,williams llc,pune,2025-05-05,Senior Level,"Excel, Tableau, Machine Learning, Communication",24,25,http://www.munoz.org/
+296,analytics intern,richardson-santos,gurgaon,2025-04-29,Internship,"SQL, Power BI, Tableau, Excel, Machine Learning",1,2,http://www.davis.com/
+297,bi analyst,"cox, johnson and davidson",pune,2025-05-14,Mid Level,"Communication, Machine Learning, Statistics, Excel, Python",11,12,http://rodriguez.com/
+298,data engineer,"lowe, wilson and ford",hyderabad,2025-05-17,Senior Level,"Machine Learning, Statistics, Excel, Communication",15,23,https://www.parks-smith.org/
+299,data engineer,smith-scott,delhi,2025-05-13,Mid Level,"Python, Communication, Statistics, Power BI, Machine Learning",9,11,http://shields-woods.com/
+300,data analyst,"vaughn, valencia and sullivan",remote,2025-05-08,Entry Level,"Excel, Machine Learning, Communication, SQL, Statistics",4,5,https://www.villegas-baker.biz/
+301,data analyst,"bradley, silva and herrera",pune,2025-05-10,Entry Level,"Statistics, Machine Learning, Excel",4,5,http://www.miller-gonzalez.net/
+302,analytics intern,"martin, thompson and barnes",hyderabad,2025-05-19,Internship,"SQL, Python, Communication, Power BI, Statistics",1,2,http://www.palmer.com/
+303,data scientist,conley group,hyderabad,2025-04-23,Mid Level,"Machine Learning, Statistics, Python",9,10,http://harvey-hall.org/
+304,bi analyst,burns-ray,delhi,2025-05-01,Entry Level,"SQL, Python, Excel",3,5,https://www.esparza.info/
+305,ml engineer,lara-conner,delhi,2025-05-10,Entry Level,"Excel, Python, Tableau, Machine Learning, Statistics",3,6,http://www.thomas.com/
+306,data engineer,"bradley, silva and herrera",delhi,2025-05-21,Entry Level,"Excel, Power BI, Tableau, Statistics, SQL",5,6,https://www.roberts.org/
+307,data analyst,mcdaniel inc,delhi,2025-05-05,Mid Level,"Statistics, Excel, SQL, Machine Learning",10,12,https://hull.com/
+308,ml engineer,"parker, manning and bell",mumbai,2025-04-28,Entry Level,"Python, Statistics, Machine Learning, Excel, SQL",5,6,https://johnson-lee.com/
+309,data engineer,liu llc,hyderabad,2025-04-30,Mid Level,"Communication, Power BI, Python",8,9,https://www.smith-gilmore.info/
+310,data scientist,kelly and sons,mumbai,2025-05-19,Mid Level,"Excel, Power BI, Tableau, Statistics",6,9,http://www.anderson-campbell.com/
+311,ml engineer,williams and sons,delhi,2025-05-05,Mid Level,"SQL, Python, Excel, Communication, Statistics",6,7,https://www.brown.biz/
+312,data analyst,"lowe, wilson and ford",chennai,2025-05-08,Mid Level,"Statistics, Python, Machine Learning, Tableau",10,12,https://prince-garza.com/
+313,data engineer,"delgado, caldwell and weeks",delhi,2025-04-23,Entry Level,"Power BI, Statistics, SQL, Tableau, Excel",4,5,http://orr.com/
+314,bi analyst,conley group,mumbai,2025-05-11,Entry Level,"Power BI, Python, Communication",4,5,https://white.com/
+315,data analyst,green ltd,bangalore,2025-05-07,Entry Level,"Python, Machine Learning, SQL",5,6,https://sosa-lloyd.biz/
+316,analytics intern,powell-nunez,delhi,2025-04-26,Internship,"Tableau, SQL, Excel, Statistics, Machine Learning",1,2,https://wilson.com/
+317,analytics intern,mendez-carter,bangalore,2025-05-07,Internship,"SQL, Excel, Machine Learning, Tableau",1,2,http://skinner-torres.com/
+318,analytics intern,jones inc,remote,2025-04-23,Internship,"Communication, Statistics, Tableau",1,2,http://www.coleman-barnes.com/
+319,data scientist,"harrell, thompson and butler",delhi,2025-05-10,Entry Level,"SQL, Communication, Machine Learning, Tableau, Python",3,6,https://reed.net/
+320,data analyst,powell-nunez,hyderabad,2025-05-02,Entry Level,"Excel, Statistics, Python",4,6,http://butler.org/
+321,data engineer,williams llc,gurgaon,2025-05-09,Entry Level,"Machine Learning, Excel, Python, Tableau, Statistics",3,5,http://www.day.info/
+322,data analyst,herring-whitney,bangalore,2025-05-19,Entry Level,"SQL, Power BI, Excel, Machine Learning",5,6,https://www.salas.biz/
+323,ml engineer,taylor llc,remote,2025-04-26,Entry Level,"Tableau, Machine Learning, Communication, SQL, Power BI",3,5,https://brown-bryant.com/
+324,ml engineer,conley group,remote,2025-04-23,Senior Level,"Power BI, SQL, Python, Communication, Machine Learning",24,25,https://gallagher-delacruz.com/
+325,data scientist,williams and sons,pune,2025-04-26,Mid Level,"Python, Statistics, Machine Learning, Power BI",11,12,https://www.wilson.org/
+326,analytics intern,jones-roth,chennai,2025-05-16,Internship,"Power BI, Communication, Statistics, Python, SQL",1,2,http://www.wheeler-nelson.org/
+327,analytics intern,brown-hensley,mumbai,2025-04-26,Internship,"Statistics, Machine Learning, Excel, Power BI, Python",1,2,https://www.lara.org/
+328,data engineer,mcdaniel inc,delhi,2025-04-23,Mid Level,"Python, Power BI, Machine Learning, SQL, Tableau",9,10,http://www.aguilar-little.info/
+329,ml engineer,nguyen-rice,pune,2025-04-29,Senior Level,"Machine Learning, Excel, Power BI, Statistics, SQL",18,24,https://www.mitchell.net/
+330,data analyst,church group,delhi,2025-05-20,Mid Level,"SQL, Communication, Power BI",10,11,https://pope-ross.com/
+331,bi analyst,adkins-moyer,gurgaon,2025-05-08,Entry Level,"Tableau, Power BI, Excel, Python",4,5,https://www.hall.com/
+332,data analyst,"vaughn, valencia and sullivan",chennai,2025-04-28,Senior Level,"Machine Learning, SQL, Python",23,24,https://www.dickerson.info/
+333,analytics intern,rogers-branch,pune,2025-04-29,Internship,"Tableau, Excel, SQL, Python, Power BI",1,2,http://www.perkins-parks.com/
+334,bi analyst,sweeney plc,hyderabad,2025-05-14,Entry Level,"Python, Communication, SQL",3,4,https://www.harris.biz/
+335,data scientist,church group,gurgaon,2025-05-17,Entry Level,"Tableau, Statistics, Python, Machine Learning, Communication",5,6,https://www.lee.com/
+336,data scientist,"parker, manning and bell",remote,2025-05-12,Senior Level,"Python, Power BI, Communication",13,19,https://www.roberts.net/
+337,data scientist,smith-scott,gurgaon,2025-05-10,Senior Level,"Statistics, Machine Learning, Power BI",18,22,https://mclean.com/
+338,data scientist,poole plc,hyderabad,2025-05-15,Senior Level,"Excel, Python, Tableau, Machine Learning",16,21,http://nguyen.com/
+339,data engineer,rogers-branch,chennai,2025-05-16,Entry Level,"SQL, Excel, Power BI",5,6,http://www.lamb.com/
+340,data scientist,richardson-santos,hyderabad,2025-05-03,Mid Level,"Python, Power BI, Machine Learning, Excel, Statistics",10,11,https://burns.com/
+341,data engineer,"cox, johnson and davidson",pune,2025-04-23,Senior Level,"Tableau, SQL, Python, Excel",20,23,https://york.net/
+342,data engineer,"robinson, valencia and smith",bangalore,2025-05-06,Senior Level,"Communication, Tableau, Excel",24,25,http://www.mitchell.info/
+343,data engineer,rojas-hall,delhi,2025-04-24,Entry Level,"Python, Statistics, SQL, Tableau",5,6,https://lowery.biz/
+344,bi analyst,poole plc,delhi,2025-04-26,Entry Level,"Machine Learning, Tableau, Python, Excel, SQL",5,6,https://www.lewis.com/
+345,data engineer,harris-peterson,remote,2025-05-09,Mid Level,"SQL, Python, Communication",7,11,https://hernandez.com/
+346,data engineer,"robinson, valencia and smith",bangalore,2025-04-26,Mid Level,"Power BI, Statistics, SQL, Excel, Machine Learning",6,9,http://maldonado.com/
+347,ml engineer,adams ltd,bangalore,2025-05-19,Entry Level,"Machine Learning, Python, Excel",5,6,http://www.ramirez.com/
+348,analytics intern,lewis ltd,gurgaon,2025-05-04,Internship,"Machine Learning, SQL, Statistics, Power BI",1,2,http://www.wong.com/
+349,analytics intern,"cox, johnson and davidson",pune,2025-04-27,Internship,"Excel, Power BI, Communication",1,2,http://ward-everett.org/
+350,analytics intern,burns-ray,chennai,2025-05-13,Internship,"Python, Machine Learning, Tableau, Power BI, Communication",1,2,https://hartman.info/
+351,data scientist,liu llc,pune,2025-05-13,Senior Level,"SQL, Power BI, Communication, Excel, Python",21,23,http://www.peterson.com/
+352,data scientist,rasmussen-wood,pune,2025-05-15,Entry Level,"Machine Learning, Power BI, Python, Excel, SQL",3,6,http://www.duke.biz/
+353,data scientist,burns-ray,mumbai,2025-05-09,Entry Level,"Python, Power BI, Statistics",3,6,http://www.bennett-cooper.com/
+354,analytics intern,richardson-santos,delhi,2025-04-27,Internship,"Machine Learning, Tableau, Power BI, Python",1,2,http://bennett.biz/
+355,bi analyst,smith-scott,hyderabad,2025-05-21,Entry Level,"Python, Excel, Statistics, Communication",3,4,http://www.johnson.biz/
+356,data analyst,burke-meza,delhi,2025-04-25,Senior Level,"SQL, Excel, Tableau, Machine Learning, Power BI",14,16,https://gill.net/
+357,analytics intern,lee-yang,gurgaon,2025-05-12,Internship,"Python, Communication, Excel",1,2,http://anderson-ward.com/
+358,data scientist,harris-peterson,gurgaon,2025-05-14,Mid Level,"Tableau, Excel, SQL, Python, Communication",11,12,http://walker-hayes.com/
+359,bi analyst,smith-scott,remote,2025-05-08,Entry Level,"SQL, Excel, Machine Learning, Tableau",4,5,http://www.rich.com/
+360,bi analyst,church group,mumbai,2025-05-19,Entry Level,"SQL, Power BI, Python, Excel",3,6,https://www.woods-morris.com/
+361,bi analyst,wallace ltd,remote,2025-05-06,Senior Level,"Statistics, SQL, Excel, Power BI, Machine Learning",16,18,http://www.yates.org/
+362,data scientist,graves-cole,bangalore,2025-05-08,Entry Level,"Tableau, Communication, Python",4,6,https://www.richardson.com/
+363,data scientist,"cole, simpson and barber",mumbai,2025-05-04,Entry Level,"Power BI, Tableau, Python, Communication, Statistics",4,6,http://alvarez-price.com/
+364,data engineer,williams and sons,remote,2025-05-10,Mid Level,"SQL, Power BI, Machine Learning, Python",7,11,https://www.jones-cisneros.com/
+365,data engineer,smith-scott,delhi,2025-05-06,Entry Level,"Power BI, Statistics, SQL",4,5,https://chavez-murray.com/
+366,data scientist,wolfe-allison,gurgaon,2025-05-21,Entry Level,"Excel, Statistics, Tableau",5,6,https://rodriguez-morton.info/
+367,ml engineer,adkins-moyer,mumbai,2025-05-21,Entry Level,"Machine Learning, Statistics, Excel, Tableau, Power BI",5,6,https://www.garcia.biz/
+368,data analyst,"martin, thompson and barnes",gurgaon,2025-05-12,Entry Level,"SQL, Python, Tableau, Statistics, Excel",3,4,https://www.elliott.org/
+369,data engineer,rasmussen-wood,gurgaon,2025-05-22,Entry Level,"Communication, Python, SQL, Excel, Power BI",5,6,http://carey-patel.com/
+370,data scientist,"murphy, grant and anderson",gurgaon,2025-04-30,Entry Level,"Communication, Excel, Statistics",4,5,https://jones-steele.com/
+371,data analyst,burke-meza,chennai,2025-04-29,Entry Level,"Excel, Communication, Machine Learning",4,5,http://www.davis-romero.com/
+372,bi analyst,jordan llc,pune,2025-05-07,Entry Level,"Communication, SQL, Power BI",4,5,http://wright-le.biz/
+373,analytics intern,"cox, johnson and davidson",pune,2025-05-08,Internship,"Tableau, Machine Learning, Communication",1,2,https://ramos-garcia.biz/
+374,bi analyst,stevenson plc,bangalore,2025-05-06,Entry Level,"Python, Power BI, Communication",3,4,http://black.com/
+375,ml engineer,williams-bell,hyderabad,2025-05-03,Entry Level,"SQL, Machine Learning, Python, Communication, Excel",4,6,http://www.mcdowell.com/
+376,bi analyst,pruitt inc,remote,2025-05-14,Entry Level,"Excel, Statistics, Communication, Python",4,6,https://www.michael.com/
+377,ml engineer,lee-yang,gurgaon,2025-04-23,Entry Level,"Power BI, Machine Learning, SQL",5,6,https://williams-evans.biz/
+378,ml engineer,"bradley, silva and herrera",gurgaon,2025-04-26,Mid Level,"Excel, Machine Learning, SQL, Tableau",11,12,http://thompson-foster.com/
+379,data analyst,"robinson, valencia and smith",chennai,2025-04-25,Mid Level,"Statistics, Communication, Excel, Power BI",8,11,https://www.murray.biz/
+380,ml engineer,ford llc,remote,2025-05-09,Entry Level,"SQL, Python, Tableau, Excel, Machine Learning",5,6,http://www.cuevas-cook.net/
+381,ml engineer,williams and sons,mumbai,2025-05-15,Entry Level,"Machine Learning, Statistics, Excel, Communication, Tableau",4,6,http://www.wright-cherry.info/
+382,data scientist,daniel-cherry,hyderabad,2025-04-27,Senior Level,"Machine Learning, Communication, SQL, Python, Power BI",24,25,http://www.richard.com/
+383,ml engineer,nguyen-rice,gurgaon,2025-05-15,Entry Level,"Power BI, Excel, Machine Learning, SQL, Communication",5,6,http://www.smith.com/
+384,analytics intern,poole plc,chennai,2025-05-21,Internship,"SQL, Power BI, Communication, Excel",1,2,http://www.haley-white.com/
+385,analytics intern,sweeney plc,delhi,2025-05-10,Internship,"Machine Learning, SQL, Communication",1,2,http://ibarra.com/
+386,ml engineer,richardson-santos,pune,2025-05-01,Entry Level,"SQL, Power BI, Python, Tableau",5,6,http://williams.com/
+387,data engineer,"murphy, grant and anderson",mumbai,2025-04-26,Entry Level,"Statistics, Tableau, Excel",3,6,http://www.stokes.com/
+388,bi analyst,"bray, hawkins and fowler",delhi,2025-05-22,Entry Level,"Communication, SQL, Excel, Statistics",3,5,http://gonzalez.org/
+389,data analyst,"cox, johnson and davidson",pune,2025-04-26,Mid Level,"Python, Communication, Power BI, Excel, SQL",7,10,https://strong.com/
+390,data scientist,smith-scott,delhi,2025-04-23,Entry Level,"Statistics, Machine Learning, Power BI, Communication, Tableau",3,4,https://chan.org/
+391,bi analyst,hale-massey,bangalore,2025-05-01,Entry Level,"Python, Excel, Tableau, SQL",3,6,https://www.watts.org/
+392,data analyst,baker llc,bangalore,2025-04-29,Mid Level,"Machine Learning, Excel, SQL, Python, Power BI",7,9,http://www.pacheco.com/
+393,data engineer,conley group,chennai,2025-05-09,Entry Level,"Communication, Machine Learning, Tableau, Statistics",3,5,https://www.anderson-cruz.com/
+394,data engineer,burke-meza,gurgaon,2025-04-24,Senior Level,"Machine Learning, Statistics, SQL, Communication",14,20,http://www.parker.net/
+395,bi analyst,reed-lane,hyderabad,2025-05-14,Entry Level,"Python, Tableau, Statistics, SQL, Communication",3,4,https://www.singh-miller.info/
+396,ml engineer,williams llc,bangalore,2025-05-05,Entry Level,"Python, Tableau, Communication, Machine Learning, Statistics",5,6,http://www.peterson.com/
+397,data analyst,burns-ray,mumbai,2025-05-04,Entry Level,"Tableau, Power BI, Machine Learning, SQL, Communication",4,5,http://www.rodriguez.com/
+398,analytics intern,williams and sons,bangalore,2025-05-18,Internship,"SQL, Machine Learning, Tableau, Excel, Communication",1,2,https://snyder.com/
+399,bi analyst,campbell and sons,mumbai,2025-04-29,Entry Level,"Power BI, Statistics, Excel",3,5,http://turner.biz/
+400,data engineer,church group,pune,2025-05-20,Mid Level,"Communication, SQL, Machine Learning",8,10,https://vance.biz/
+401,bi analyst,"bass, west and morgan",hyderabad,2025-05-17,Entry Level,"Communication, SQL, Python",5,6,https://nichols-reyes.com/
+402,data engineer,jones inc,mumbai,2025-04-29,Senior Level,"Tableau, Excel, Power BI, Python",22,23,https://espinoza.com/
+403,data analyst,adams-white,bangalore,2025-05-08,Senior Level,"SQL, Python, Statistics, Machine Learning",17,23,http://www.williams.com/
+404,data scientist,lewis ltd,delhi,2025-04-27,Entry Level,"SQL, Excel, Statistics, Communication, Python",4,6,http://www.mason.net/
+405,bi analyst,dominguez-clayton,remote,2025-05-16,Entry Level,"Excel, Python, SQL, Statistics",4,6,http://www.parker-hernandez.info/
+406,data scientist,campbell and sons,gurgaon,2025-05-12,Senior Level,"Communication, SQL, Tableau, Power BI, Excel",19,24,http://colon-parsons.com/
+407,data engineer,lee-yang,delhi,2025-05-02,Entry Level,"Communication, Python, Statistics, Excel",4,5,http://www.flowers.biz/
+408,analytics intern,adkins-moyer,bangalore,2025-04-25,Internship,"SQL, Power BI, Machine Learning, Communication, Statistics",1,2,http://roberts.com/
+409,ml engineer,lewis ltd,gurgaon,2025-05-21,Entry Level,"Excel, Tableau, Power BI",5,6,https://allen.biz/
+410,bi analyst,watson-fox,mumbai,2025-04-28,Mid Level,"Tableau, Python, Communication, SQL",8,10,http://www.marks.com/
+411,data engineer,"parker, manning and bell",gurgaon,2025-05-18,Entry Level,"Communication, Statistics, Tableau, Power BI",3,4,http://www.bright.com/
+412,data analyst,kelly and sons,remote,2025-05-05,Entry Level,"Statistics, Power BI, Python",4,5,https://www.graham.info/
+413,data engineer,"watkins, robinson and perkins",bangalore,2025-05-15,Senior Level,"Power BI, Machine Learning, Statistics, Communication, Excel",24,25,https://forbes.net/
+414,ml engineer,"bray, hawkins and fowler",hyderabad,2025-05-15,Senior Level,"Machine Learning, Communication, Power BI, Python, Tableau",17,25,http://dougherty.com/
+415,analytics intern,"robinson, valencia and smith",bangalore,2025-05-03,Internship,"Tableau, Communication, Statistics, Excel, Python",1,2,http://www.davis-harmon.com/
+416,data analyst,watson-fox,remote,2025-04-25,Entry Level,"Tableau, Communication, SQL",5,6,https://www.love.com/
+417,data scientist,mendez-carter,gurgaon,2025-04-27,Entry Level,"SQL, Statistics, Power BI, Python",3,6,http://steele-cunningham.com/
+418,analytics intern,baker llc,mumbai,2025-04-29,Internship,"Excel, Power BI, Python, Tableau, Machine Learning",1,2,http://jones.com/
+419,data engineer,hayden and sons,remote,2025-05-04,Senior Level,"Excel, Machine Learning, SQL, Python, Power BI",24,25,http://delgado.org/
+420,analytics intern,pruitt inc,pune,2025-05-06,Internship,"Power BI, Excel, Communication, Statistics, Tableau",1,2,http://foster-baldwin.com/
+421,bi analyst,stevenson plc,delhi,2025-05-19,Entry Level,"Machine Learning, Communication, Statistics, Tableau, SQL",5,6,https://reynolds.com/
+422,data scientist,tate inc,chennai,2025-04-26,Mid Level,"Excel, Tableau, Statistics, Communication, Python",11,12,https://olson-meyer.com/
+423,ml engineer,sweeney plc,remote,2025-05-22,Mid Level,"Tableau, Statistics, Power BI, Python, Communication",11,12,https://glover.net/
+424,data analyst,miller-williams,delhi,2025-04-26,Entry Level,"Excel, Communication, Machine Learning, Statistics",3,4,http://www.smith.info/
+425,data scientist,adams ltd,chennai,2025-04-27,Entry Level,"Communication, Python, Tableau, Machine Learning",5,6,http://www.roth.org/
+426,data scientist,underwood-morgan,gurgaon,2025-05-16,Entry Level,"Python, Power BI, Statistics, Machine Learning, Excel",5,6,http://johnson-huber.biz/
+427,data engineer,"bray, hawkins and fowler",bangalore,2025-05-02,Mid Level,"Power BI, Machine Learning, Statistics, Excel",7,12,https://bond-griffith.com/
+428,data engineer,williams and sons,hyderabad,2025-05-22,Mid Level,"Excel, Machine Learning, Python, SQL",7,10,https://www.ballard.org/
+429,data scientist,"randolph, rivers and richardson",mumbai,2025-05-15,Entry Level,"Tableau, SQL, Statistics, Communication, Excel",4,6,https://thompson.net/
+430,data analyst,"bass, west and morgan",remote,2025-05-06,Mid Level,"Machine Learning, Tableau, Python",7,8,https://www.meyer.com/
+431,analytics intern,"delgado, caldwell and weeks",chennai,2025-05-03,Internship,"Machine Learning, Tableau, SQL",1,2,https://collins.com/
+432,data scientist,"young, harding and webb",mumbai,2025-05-01,Mid Level,"Statistics, Python, Excel, SQL, Tableau",7,11,http://www.thompson.net/
+433,analytics intern,"bass, west and morgan",pune,2025-05-02,Internship,"Communication, Tableau, Machine Learning",1,2,https://joyce.info/
+434,data analyst,"lloyd, hoffman and hill",pune,2025-05-07,Entry Level,"Machine Learning, Power BI, Python",5,6,https://www.wallace.info/
+435,bi analyst,hernandez and sons,chennai,2025-05-22,Entry Level,"Communication, Power BI, Python, Excel, SQL",5,6,http://fritz.com/
+436,ml engineer,bryant-bush,mumbai,2025-05-04,Senior Level,"Python, Machine Learning, Communication, SQL, Tableau",14,23,https://rivas-patrick.biz/
+437,analytics intern,proctor-evans,mumbai,2025-04-30,Internship,"SQL, Machine Learning, Statistics, Communication, Python",1,2,http://phillips.com/
+438,bi analyst,williams llc,pune,2025-05-16,Entry Level,"Tableau, Communication, Python",3,4,https://cook-craig.com/
+439,data engineer,rojas-hall,chennai,2025-05-11,Entry Level,"Machine Learning, Python, Power BI, Statistics",4,6,https://www.austin.com/
+440,data engineer,hickman group,mumbai,2025-05-18,Mid Level,"SQL, Excel, Tableau, Python, Statistics",10,11,http://fitzpatrick-hughes.info/
+441,analytics intern,lara-conner,mumbai,2025-04-24,Internship,"Statistics, Communication, Machine Learning, Python",1,2,https://hill-macdonald.net/
+442,bi analyst,"vaughn, valencia and sullivan",hyderabad,2025-05-19,Entry Level,"Excel, Communication, Machine Learning, Statistics, Python",4,6,http://dillon-braun.com/
+443,data engineer,sweeney plc,delhi,2025-05-12,Entry Level,"Statistics, Tableau, Communication, Python, Excel",3,6,https://williams.info/
+444,data scientist,underwood-morgan,pune,2025-05-01,Entry Level,"Excel, SQL, Tableau",5,6,http://hamilton.com/
+445,ml engineer,harris-peterson,mumbai,2025-05-21,Entry Level,"Communication, Machine Learning, Tableau, Python, Excel",5,6,https://turner.biz/
+446,analytics intern,saunders and sons,chennai,2025-05-16,Internship,"Communication, Excel, Statistics, SQL, Tableau",1,2,https://www.graham.biz/
+447,data analyst,bender plc,mumbai,2025-05-22,Senior Level,"Machine Learning, Tableau, Communication, Excel",17,25,https://www.joseph.com/
+448,analytics intern,nelson-juarez,delhi,2025-05-11,Internship,"Excel, Python, Communication, SQL",1,2,http://alvarez-malone.com/
+449,data scientist,williams llc,gurgaon,2025-04-26,Entry Level,"Machine Learning, Power BI, Statistics, Communication, Excel",4,5,http://graves.com/
+450,ml engineer,"cox, johnson and davidson",mumbai,2025-05-03,Entry Level,"Excel, Tableau, SQL, Communication",5,6,http://johnson.com/
+451,analytics intern,smith inc,mumbai,2025-05-17,Internship,"Python, Statistics, Tableau, Machine Learning, Power BI",1,2,https://www.cisneros.com/
+452,data engineer,ford llc,bangalore,2025-05-07,Mid Level,"Excel, Communication, Power BI, SQL, Statistics",10,12,https://brewer.org/
+453,data scientist,huffman-hill,mumbai,2025-05-20,Entry Level,"Power BI, Statistics, Tableau, SQL, Machine Learning",5,6,https://davis.com/
+454,bi analyst,"vaughn, valencia and sullivan",delhi,2025-04-25,Mid Level,"Communication, Excel, Python, SQL, Power BI",10,11,http://hoffman.com/
+455,data scientist,saunders and sons,chennai,2025-05-08,Entry Level,"Machine Learning, Power BI, Statistics",3,6,http://www.dickson.com/
+456,bi analyst,wolfe-allison,bangalore,2025-05-08,Senior Level,"Tableau, Statistics, Machine Learning, Excel, SQL",17,19,https://harvey.com/
+457,bi analyst,"bradley, silva and herrera",gurgaon,2025-05-13,Entry Level,"Tableau, Power BI, SQL, Communication, Statistics",5,6,https://white-grant.com/
+458,ml engineer,rasmussen-wood,remote,2025-05-21,Mid Level,"Excel, Power BI, SQL, Machine Learning, Python",10,11,http://www.burke.com/
+459,data engineer,"parker, manning and bell",chennai,2025-04-28,Entry Level,"SQL, Machine Learning, Communication, Power BI",3,4,https://summers-hughes.com/
+460,ml engineer,hernandez-oneill,mumbai,2025-04-23,Entry Level,"Excel, Machine Learning, Power BI",4,6,https://moore-lee.com/
+461,data analyst,rogers-branch,bangalore,2025-05-07,Entry Level,"Python, Tableau, SQL",5,6,http://www.tucker.net/
+462,data analyst,watson-fox,chennai,2025-05-06,Senior Level,"Python, Machine Learning, Statistics, Excel, Communication",20,24,http://davis-rasmussen.com/
+463,data scientist,graves-cole,remote,2025-04-29,Senior Level,"Excel, Statistics, Tableau, SQL",14,18,http://patrick.com/
+464,data engineer,lewis ltd,chennai,2025-05-16,Entry Level,"SQL, Communication, Power BI, Machine Learning",5,6,http://rhodes.org/
+465,data scientist,campbell and sons,bangalore,2025-05-08,Entry Level,"SQL, Communication, Power BI",5,6,https://patterson-campbell.biz/
+466,data engineer,pruitt inc,bangalore,2025-05-19,Senior Level,"SQL, Power BI, Machine Learning",20,25,https://stevenson-duarte.com/
+467,data scientist,liu llc,bangalore,2025-05-17,Senior Level,"Statistics, Excel, Python, Tableau, Power BI",24,25,https://thompson.info/
+468,data scientist,"phillips, phillips and phillips",gurgaon,2025-05-22,Entry Level,"Excel, Communication, Power BI, SQL",5,6,http://wells.com/
+469,data analyst,bender plc,gurgaon,2025-04-28,Entry Level,"Python, Tableau, Statistics, Communication, Machine Learning",3,6,http://white.org/
+470,bi analyst,"bradley, silva and herrera",hyderabad,2025-05-04,Mid Level,"SQL, Communication, Power BI, Tableau",8,12,https://goodman-downs.com/
+471,ml engineer,nguyen-rice,gurgaon,2025-04-30,Mid Level,"Statistics, Communication, SQL, Power BI, Tableau",10,12,http://martin.biz/
+472,data scientist,"harrell, thompson and butler",remote,2025-05-12,Entry Level,"Statistics, Machine Learning, SQL, Python, Communication",4,6,https://williams.com/
+473,bi analyst,"martin, thompson and barnes",delhi,2025-05-21,Entry Level,"Python, SQL, Power BI, Communication",5,6,https://www.fleming-greene.com/
+474,data analyst,"buchanan, cuevas and evans",remote,2025-05-05,Senior Level,"Tableau, SQL, Excel",18,19,https://www.miller.biz/
+475,data analyst,liu llc,bangalore,2025-05-01,Mid Level,"Tableau, Machine Learning, Communication, Python, SQL",9,12,http://adams-anderson.com/
+476,analytics intern,kelly and sons,remote,2025-05-16,Internship,"Tableau, SQL, Python, Communication, Statistics",1,2,https://www.stanley.org/
+477,data engineer,watson-fox,bangalore,2025-05-18,Entry Level,"SQL, Excel, Power BI",5,6,https://collins.com/
+478,ml engineer,greene plc,gurgaon,2025-05-19,Entry Level,"SQL, Python, Tableau",3,6,https://www.olsen.net/
+479,ml engineer,hernandez-oneill,pune,2025-05-16,Entry Level,"Power BI, Communication, Statistics, Tableau, Python",4,5,http://chavez-barton.com/
+480,ml engineer,adams-white,gurgaon,2025-04-30,Mid Level,"Tableau, Excel, Python, Communication, Statistics",10,11,https://www.anderson.info/
+481,data engineer,smith-scott,chennai,2025-05-12,Mid Level,"Power BI, Statistics, Excel, Communication",9,12,http://www.li-thomas.com/
+482,analytics intern,green ltd,bangalore,2025-05-01,Internship,"SQL, Power BI, Machine Learning, Communication",1,2,http://pace.com/
+483,analytics intern,"martin, thompson and barnes",hyderabad,2025-05-01,Internship,"Python, Machine Learning, Excel, SQL",1,2,http://www.proctor.com/
+484,ml engineer,taylor llc,gurgaon,2025-05-12,Mid Level,"Excel, Power BI, Communication, Machine Learning, SQL",8,9,http://brady-hicks.com/
+485,data engineer,"jones, gutierrez and shaffer",delhi,2025-05-19,Senior Level,"Power BI, SQL, Machine Learning, Statistics",22,23,https://meyer.org/
+486,ml engineer,tate inc,hyderabad,2025-05-19,Entry Level,"Excel, Statistics, Python, Machine Learning",3,6,https://clark-collier.com/
+487,data analyst,baker llc,remote,2025-05-08,Mid Level,"Machine Learning, Tableau, Excel, Power BI",10,11,https://www.thompson.com/
+488,data engineer,brown-hensley,remote,2025-04-27,Entry Level,"Power BI, Statistics, Tableau, SQL",5,6,http://www.grant-wade.com/
+489,data analyst,"whitehead, williams and johnson",gurgaon,2025-04-29,Entry Level,"Machine Learning, Power BI, Communication, SQL, Statistics",5,6,https://www.washington.com/
+490,data analyst,"martin, thompson and barnes",remote,2025-05-03,Entry Level,"Power BI, Communication, Tableau, Python, Excel",3,4,https://anderson.com/
+491,ml engineer,"delgado, caldwell and weeks",chennai,2025-04-29,Entry Level,"Communication, Tableau, Excel, Machine Learning",4,5,http://sanford.com/
+492,data scientist,kelly and sons,gurgaon,2025-05-16,Entry Level,"Statistics, Excel, Power BI, SQL",5,6,https://www.marks.com/
+493,data engineer,"payne, smith and meyers",hyderabad,2025-05-13,Senior Level,"Statistics, Communication, Power BI",23,25,https://stephens.com/
+494,data scientist,"buchanan, cuevas and evans",delhi,2025-05-06,Entry Level,"Communication, SQL, Machine Learning, Tableau",3,4,https://www.russell.com/
+495,data engineer,hernandez-oneill,pune,2025-05-17,Mid Level,"Python, Power BI, Communication, SQL, Machine Learning",8,11,https://rowe-brady.com/
+496,data scientist,hernandez and sons,remote,2025-05-16,Senior Level,"Machine Learning, Excel, Statistics, Communication, Tableau",13,21,http://www.wilson.com/
+497,ml engineer,reed-lane,gurgaon,2025-05-04,Entry Level,"Excel, Statistics, Communication, Machine Learning, Tableau",5,6,https://www.castaneda.info/
+498,analytics intern,bryant-bush,remote,2025-05-04,Internship,"Tableau, Power BI, Machine Learning, SQL",1,2,https://www.casey-johnson.com/
+499,data scientist,mcmillan group,pune,2025-04-27,Entry Level,"SQL, Communication, Excel",5,6,https://leonard.com/
+500,data scientist,adkins-moyer,pune,2025-05-20,Mid Level,"Statistics, Excel, Power BI, Communication, Machine Learning",11,12,http://www.jackson-daniel.com/
